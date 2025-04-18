@@ -38,4 +38,6 @@ Ce projet permet d’automatiser la gestion des utilisateurs (ajout, suppression
 │   ├── webserver_users.yml        # Utilisateurs pour le serveur web
 │   ├── manage_users.yml           # Playbook général de gestion des utilisateurs
 │   └── inventory                  # Fichier d'inventaire listant les hôtes cibles
-├── README.md                      # Documentation du projet
+├── README.md                      # Documentation du tout le projet
+
+
